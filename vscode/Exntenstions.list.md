@@ -1,4 +1,4 @@
-# VS Code COnfiguration
+# VS Code Configuration
 
 # Extensions
 
